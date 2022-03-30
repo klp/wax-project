@@ -1,0 +1,77 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "obj5",
+    "label": "Hollyweel Blows Your Mind",
+    "_date": "1965",
+    "object_type": "brochure",
+    "source": "H316GenPurpDigComp_1965",
+    "source_name": "H316 General Purpose Digital Computer",
+    "collection": "temp_collection",
+    "thumbnail": "/img/derivatives/iiif/images/obj5/full/250,/0/default.jpg",
+    "permalink": "/temp_collection/obj5",
+    "lunr_id": 0
+  },
+  {
+    "pid": "obj1",
+    "label": "IBM Transitors in Abstract",
+    "_date": "1976",
+    "object_type": "photo",
+    "source": "CompAge_EvolIBM_1976",
+    "source_name": "The Computer Age: The Evolution of IBM Computers",
+    "collection": "temp_collection",
+    "thumbnail": "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",
+    "permalink": "/temp_collection/obj1",
+    "lunr_id": 1
+  },
+  {
+    "pid": "obj4",
+    "label": "Silicon Waifer Moon",
+    "_date": "1976",
+    "object_type": "photo",
+    "source": "CompAge_EvolIBM_1978",
+    "source_name": "The Computer Age: The Evolution of IBM Computers",
+    "collection": "temp_collection",
+    "thumbnail": "/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",
+    "permalink": "/temp_collection/obj4",
+    "lunr_id": 2
+  },
+  {
+    "pid": "obj3",
+    "label": "Faces Amid Wires",
+    "_date": "1976",
+    "object_type": "photo",
+    "source": "CompAge_EvolIBM_1978",
+    "source_name": "The Computer Age: The Evolution of IBM Computers",
+    "collection": "temp_collection",
+    "thumbnail": "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg",
+    "permalink": "/temp_collection/obj3",
+    "lunr_id": 3
+  },
+  {
+    "pid": "obj6",
+    "label": "Pacific Data Systems Love Letter To Women",
+    "_date": "1964",
+    "object_type": "brochure",
+    "source": "IntroPDS1020DigComp_1964",
+    "source_name": "Introduction to Pacfici Data Systems 1020 Digital Computer",
+    "collection": "temp_collection",
+    "thumbnail": "/img/derivatives/iiif/images/obj6/full/250,/0/default.jpg",
+    "permalink": "/temp_collection/obj6",
+    "lunr_id": 4
+  },
+  {
+    "pid": "obj2",
+    "label": "People and Gears",
+    "_date": "1976",
+    "object_type": "photo",
+    "source": "CompAge_EvolIBM_1977",
+    "source_name": "The Computer Age: The Evolution of IBM Computers",
+    "collection": "temp_collection",
+    "thumbnail": "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",
+    "permalink": "/temp_collection/obj2",
+    "lunr_id": 5
+  }
+]
