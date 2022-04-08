@@ -10,8 +10,8 @@ $logo: url("{{ '/assets/logo.png' | absolute_url }}");
 
 /* text */
 
-$body-font:       'Open Sans', 'sans-serif';
-$heading-font:    'Open Sans', 'sans-serif';
+$body-font:       'Space Mono', monospace, 'Open Sans', 'sans-serif';
+$heading-font:    'Space Mono', monospace, 'Open Sans', 'sans-serif';
 
 
 /* Image Size */
@@ -21,11 +21,11 @@ $thumbnail-width: 140px;
 
 /* colors */
 
-$text-color:      #f7c94a;
-$bg-color:        #222024;
+$text-color:      #000000;
+$bg-color:        #ffffff;
 $neutral:         #eae7de;
-$accent-light:    #966d09;
-$accent-dark:     #644906;
+$accent-light:    #1b1b1b;
+$accent-dark:     #141414;
 
 /* viewport sizes */
 
@@ -48,4 +48,5 @@ font & asset import
 */
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&font-display=auto');
+@import url('https://fonts.googleapis.com/css?family=Space+Mono:400');
 @import 'wax';
