@@ -6,12 +6,12 @@ variable declaration
 */
 
 /* branding */
-$logo: url("{{ '/assets/logo.png' | absolute_url }}");
+$logo: url("{{ '/assets/Helvetica_d7d7d7_grey_0411.png' | absolute_url }}");
 
 /* text */
 
-$body-font:       'Space Mono', monospace, 'Open Sans', 'sans-serif';
-$heading-font:    'Space Mono', monospace, 'Open Sans', 'sans-serif';
+$body-font:       'lores-12', monospace, 'Open Sans', 'sans-serif';
+$heading-font:    'lores-12', monospace, 'Open Sans', 'sans-serif';
 
 
 /* Image Size */
@@ -41,7 +41,7 @@ $super-margin:    3.0rem;
 
 $viewer-height:   550px;
 $parallax-height: 350px;
-$footer-height:   250px;
+$footer-height:   150px;
 
 /*
 font & asset import
@@ -50,3 +50,5 @@ font & asset import
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&font-display=auto');
 @import url('https://fonts.googleapis.com/css?family=Space+Mono:400');
 @import 'wax';
+
+@import url("https://use.typekit.net/gsp3tew.css")
