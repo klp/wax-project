@@ -23,7 +23,7 @@ description:      'A visual archive of Mainframes in Society'
 url:              'https://klp.github.io'
 baseurl:          '/wax-project'
 copyright:        '2022'
-logo:             '/assets/logo.png'
+logo:             '/img/logo.png'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
@@ -133,6 +133,6 @@ footer:
     - label: 'Contact'
       link: 'https://gitter.im/minicomp/wax/'
   logos:
-    - img: '/img/temp_logo.png'
+    - img: '/img/logo.png'
 
 # FIN
