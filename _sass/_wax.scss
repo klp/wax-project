@@ -56,9 +56,9 @@ header & nav bar
   letter-spacing: 0.075rem;
 
   .navbar-brand {
-    font-weight: 700;
+    font-weight: 500;
     color: $accent-light;
-    font-size: 2rem;
+    font-size: 4.5rem;
     white-space: normal;
   }
 
@@ -120,7 +120,7 @@ content section
   }
 
   h2 {
-    font-size: 2rem;
+    font-size: 4rem;
     letter-spacing: 0.1rem;
   }
 
@@ -250,7 +250,7 @@ content section
   @extend .container;
 
   margin: 0 auto;
-  max-width: 90%;
+  max-width: 95%;
   width: $max-width;
   overflow: flex-wrap;
 }
