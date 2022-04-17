@@ -38,11 +38,6 @@ layout: none
       "label": "obj98"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj506/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj506"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj146/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj146"
@@ -61,76 +56,6 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj191/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj191"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj344/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj344"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj422/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj422"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj436/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj436"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj350/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj350"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj378/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj378"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj387/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj387"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj393/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj393"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj392/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj392"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj386/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj386"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj379/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj379"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj437/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj437"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj351/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj351"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj345/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj345"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj423/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj423"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj190/manifest.json",
@@ -233,76 +158,6 @@ layout: none
       "label": "obj186"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj353/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj353"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj435/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj435"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj421/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj421"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj347/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj347"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj409/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj409"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj390/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj390"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj384/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj384"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj385/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj385"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj391/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj391"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj408/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj408"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj420/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj420"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj346/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj346"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj352/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj352"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj434/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj434"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj187/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj187"
@@ -401,76 +256,6 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj183/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj183"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj418/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj418"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj430/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj430"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj356/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj356"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj342/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj342"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj424/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj424"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj395/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj395"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj381/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj381"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj380/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj380"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj394/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj394"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj343/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj343"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj425/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj425"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj431/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj431"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj357/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj357"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj419/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj419"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj182/manifest.json",
@@ -573,76 +358,6 @@ layout: none
       "label": "obj194"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj369/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj369"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj427/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj427"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj341/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj341"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj355/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj355"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj433/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj433"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj382/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj382"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj396/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj396"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj397/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj397"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj383/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj383"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj354/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj354"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj432/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj432"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj426/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj426"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj340/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj340"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj368/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj368"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj195/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj195"
@@ -651,11 +366,6 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj181/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj181"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj511/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj511"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj156/manifest.json",
@@ -698,29 +408,9 @@ layout: none
       "label": "obj208"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj253/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj253"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj247/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj247"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj509/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj509"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj290/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj290"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj284/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj284"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj10/manifest.json",
@@ -753,79 +443,9 @@ layout: none
       "label": "obj119"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj441/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj441"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj327/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj327"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj333/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj333"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj455/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj455"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj469/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj469"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj482/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj482"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj496/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj496"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj118/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj118"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj497/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj497"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj483/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj483"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj468/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj468"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj332/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj332"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj454/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj454"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj440/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj440"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj326/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj326"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj130/manifest.json",
@@ -848,14 +468,9 @@ layout: none
       "label": "obj39"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj285/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj11/manifest.json",
       "@type": "sc:Manifest",
-      "label": "obj285"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj291/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj291"
+      "label": "obj11"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj246/manifest.json",
@@ -863,34 +478,9 @@ layout: none
       "label": "obj246"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj252/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj252"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj244/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj244"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj250/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj250"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj278/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj278"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj287/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj287"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj293/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj293"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj13/manifest.json",
@@ -913,76 +503,6 @@ layout: none
       "label": "obj6"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj456/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj456"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj330/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj330"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj324/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj324"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj442/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj442"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj318/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj318"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj495/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj495"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj481/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj481"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj480/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj480"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj494/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj494"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj319/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj319"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj325/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj325"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj443/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj443"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj457/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj457"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj331/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj331"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj7/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj7"
@@ -1003,54 +523,14 @@ layout: none
       "label": "obj12"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj292/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj292"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj286/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj286"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj279/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj279"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj251/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj251"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj245/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj245"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj269/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj269"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj241/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj241"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj255/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj255"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj282/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj282"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj296/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj296"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj16/manifest.json",
@@ -1073,76 +553,6 @@ layout: none
       "label": "obj3"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj309/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj309"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj335/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj335"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj453/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj453"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj447/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj447"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj321/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj321"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj490/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj490"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj484/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj484"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj485/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj485"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj491/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj491"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj446/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj446"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj320/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj320"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj334/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj334"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj452/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj452"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj308/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj308"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj2/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj2"
@@ -1163,49 +573,14 @@ layout: none
       "label": "obj17"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj297/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj297"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj283/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj283"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj254/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj254"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj240/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj240"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj268/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj268"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj256/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj256"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj242/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj242"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj295/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj295"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj281/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj281"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj29/manifest.json",
@@ -1231,81 +606,6 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj134/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj134"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj478/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj478"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj322/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj322"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj444/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj444"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj450/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj450"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj336/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj336"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj487/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj487"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj493/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj493"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj492/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj492"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj486/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj486"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj451/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj451"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj337/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj337"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj323/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj323"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj445/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj445"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj479/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj479"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ob11/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "ob11"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj135/manifest.json",
@@ -1338,44 +638,9 @@ layout: none
       "label": "obj28"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj280/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj280"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj294/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj294"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj243/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj243"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj257/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj257"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj272/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj272"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj266/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj266"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj500/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj500"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj299/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj299"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj25/manifest.json",
@@ -1408,56 +673,6 @@ layout: none
       "label": "obj138"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj460/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj460"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj306/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj306"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj312/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj312"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj474/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj474"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj448/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj448"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj449/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj449"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj313/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj313"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj475/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj475"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj461/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj461"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj307/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj307"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj139/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj139"
@@ -1488,46 +703,6 @@ layout: none
       "label": "obj24"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj298/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj298"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj267/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj267"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj501/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj501"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj273/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj273"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj503/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj503"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj265/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj265"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj271/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj271"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj259/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj259"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj32/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj32"
@@ -1548,66 +723,6 @@ layout: none
       "label": "obj107"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj477/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj477"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj311/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj311"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj305/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj305"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj463/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj463"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj339/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj339"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj488/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj488"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj489/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj489"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj338/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj338"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj304/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj304"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj462/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj462"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj476/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj476"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj310/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj310"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj106/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj106"
@@ -1621,46 +736,6 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj33/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj33"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj258/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj258"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj270/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj270"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj502/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj502"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj264/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj264"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj248/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj248"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj260/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj260"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj512/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj512"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj274/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj274"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj37/manifest.json",
@@ -1683,69 +758,9 @@ layout: none
       "label": "obj102"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj328/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj328"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj314/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj314"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj472/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj472"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj466/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj466"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj300/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj300"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj499/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj499"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj117/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj117"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj498/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj498"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj467/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj467"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj301/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj301"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj315/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj315"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj473/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj473"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj329/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj329"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj103/manifest.json",
@@ -1761,41 +776,6 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj36/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj36"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj275/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj275"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj261/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj261"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj507/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj507"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj249/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj249"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj277/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj277"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj263/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj263"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj288/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj288"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj20/manifest.json",
@@ -1828,56 +808,6 @@ layout: none
       "label": "obj115"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj459/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj459"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj303/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj303"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj465/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj465"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj471/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj471"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj317/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj317"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj470/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj470"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj316/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj316"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj302/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj302"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj464/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj464"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj458/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj458"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj114/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj114"
@@ -1906,26 +836,6 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj21/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj21"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj289/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj289"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj262/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj262"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj276/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj276"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj510/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj510"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj211/manifest.json",
@@ -1978,56 +888,6 @@ layout: none
       "label": "obj198"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj365/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj365"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj403/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj403"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj417/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj417"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj371/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj371"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj359/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj359"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj358/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj358"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj416/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj416"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj370/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj370"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj364/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj364"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj402/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj402"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj199/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj199"
@@ -2041,11 +901,6 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj166/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj166"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj504/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj504"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj90/manifest.json",
@@ -2128,66 +983,6 @@ layout: none
       "label": "obj158"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj372/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj372"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj414/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj414"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj400/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj400"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj366/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj366"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj428/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj428"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj399/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj399"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj398/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj398"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj429/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj429"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj401/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj401"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj367/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj367"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj373/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj373"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj415/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj415"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj159/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj159"
@@ -2216,11 +1011,6 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj78/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj78"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj508/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj508"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj44/manifest.json",
@@ -2291,66 +1081,6 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj161/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj161"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj439/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj439"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj411/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj411"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj377/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj377"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj363/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj363"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj405/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj405"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj388/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj388"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj389/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj389"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj362/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj362"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj404/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj404"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj410/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj410"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj376/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj376"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj438/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj438"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj160/manifest.json",
@@ -2428,11 +1158,6 @@ layout: none
       "label": "obj57"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj505/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj505"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj80/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj80"
@@ -2458,59 +1183,9 @@ layout: none
       "label": "obj189"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj348/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj348"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj406/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj406"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj360/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj360"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj374/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj374"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj412/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj412"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj84/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj84"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj375/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj375"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj413/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj413"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj407/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj407"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj361/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj361"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj349/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj349"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj188/manifest.json",
