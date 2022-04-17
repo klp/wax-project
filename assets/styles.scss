@@ -10,8 +10,8 @@ $logo: url("{{ '/img/logo.png' | absolute_url }}");
 
 /* text */
 
-$body-font:       'lores-12', monospace, 'Open Sans', 'sans-serif';
-$heading-font:    'lores-12', monospace, 'Open Sans', 'sans-serif';
+$body-font:       'geo', monospace, 'Open Sans', 'sans-serif';
+$heading-font:    'geo', monospace, 'Open Sans', 'sans-serif';
 
 
 /* Image Size */
@@ -22,7 +22,7 @@ $thumbnail-width: 150px;
 /* colors */
 
 $text-color:      #000000;
-$bg-color:        #ffffff;
+$bg-color:        #e5e5e5;
 $neutral:         #eae7de;
 $accent-light:    #1b1b1b;
 $accent-dark:     #141414;
