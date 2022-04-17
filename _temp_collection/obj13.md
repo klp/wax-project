@@ -4,10 +4,10 @@ label: Bendix G15 Page 3
 company: Bendix
 _date: '1956'
 decade: 50s
-commentary: 
+commentary:
 object_type: brochure
 source: Bendix_G15_1956_Page_03
-source_name: 
+source_name:
 order: '12'
 layout: qatar_item
 collection: temp_collection

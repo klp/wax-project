@@ -4,10 +4,10 @@ label: How and Why Wonder Book of Electronics Page 7
 company: Transworld Publishers
 _date: "????"
 decade: 60s
-commentary: 
+commentary:
 object_type: magazine
 source: 6.how-why-electronics_Page_07
-source_name: 
+source_name:
 order: '30'
 layout: qatar_item
 collection: temp_collection

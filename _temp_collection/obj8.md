@@ -4,10 +4,10 @@ label: IBM Customer Executive Program
 company: IBM
 _date: '1987'
 decade: 70s
-commentary: 
+commentary:
 object_type: ad
 source: IBM_Customer_Executive_Program_Port_1978
-source_name: 
+source_name:
 order: '7'
 layout: qatar_item
 collection: temp_collection

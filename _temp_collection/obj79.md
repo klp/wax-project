@@ -4,10 +4,10 @@ label: IBM Eleltric Model B Brochure Page 1
 company: IBM
 _date: '1955'
 decade: 50s
-commentary: 
+commentary:
 object_type: brochure
 source: IBM _Electric_ModelB_brochure_1955_Page_1
-source_name: 
+source_name:
 order: '78'
 layout: qatar_item
 collection: temp_collection

@@ -4,10 +4,10 @@ label: Radical Software Volume 1 Number 5 Page 27
 company: Radical Software
 _date: '1972'
 decade: 70s
-commentary: 
+commentary:
 object_type: magazine
 source: RadicalSoftware_VOLUME1NR5_full_1972_Page_027
-source_name: 
+source_name:
 order: '98'
 layout: qatar_item
 collection: temp_collection

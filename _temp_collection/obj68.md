@@ -4,10 +4,10 @@ label: How and Why Wonder Book of Robots and Electronic Brains Page 34
 company: Transworld Publishers
 _date: "????"
 decade: 60s
-commentary: 
+commentary:
 object_type: magazine
 source: How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_40
-source_name: 
+source_name:
 order: '67'
 layout: qatar_item
 collection: temp_collection

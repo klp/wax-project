@@ -4,10 +4,10 @@ label: IBM Computer Elbow Room
 company: IBM
 _date: '1971'
 decade: 70s
-commentary: 
+commentary:
 object_type: ad
 source: IBM_ComElbowRoom_1971
-source_name: 
+source_name:
 order: '6'
 layout: qatar_item
 collection: temp_collection

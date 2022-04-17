@@ -4,10 +4,10 @@ label: How and Why Wonder Book of Mathematics Page 1
 company: Transworld Publishers
 _date: "????"
 decade: 60s
-commentary: 
+commentary:
 object_type: magazine
 source: How_and_Why Mathematics_Page_01
-source_name: 
+source_name:
 order: '31'
 layout: qatar_item
 collection: temp_collection

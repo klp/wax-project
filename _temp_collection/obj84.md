@@ -2,12 +2,12 @@
 pid: obj84
 label: IBM Card Reader
 company: Online Archives California (University of California)
-_date: 
-decade: 
-commentary: 
+_date:
+decade:
+commentary:
 object_type: photo
 source: IBMCardReader
-source_name: 
+source_name:
 order: '83'
 layout: qatar_item
 collection: temp_collection

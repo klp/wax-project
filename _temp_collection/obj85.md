@@ -4,10 +4,10 @@ label: Radical Software Volume 1 Number 1Page 1
 company: Radical Software
 _date: '1970'
 decade: 70s
-commentary: 
+commentary:
 object_type: magazine
 source: RadicalSoftware_VOLUME1NR1_full_1970_Page_01
-source_name: 
+source_name:
 order: '84'
 layout: qatar_item
 collection: temp_collection

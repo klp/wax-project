@@ -4,10 +4,10 @@ label: How and Why Wonder Book of Electronics Page 38
 company: Transworld Publishers
 _date: "????"
 decade: 60s
-commentary: 
+commentary:
 object_type: magazine
 source: How_and_Why Mathematics_Page_38
-source_name: 
+source_name:
 order: '33'
 layout: qatar_item
 collection: temp_collection

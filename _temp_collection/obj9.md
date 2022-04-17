@@ -4,10 +4,10 @@ label: IBM There Was a Time
 company: IBM
 _date: '1982'
 decade: 80s
-commentary: 
+commentary:
 object_type: ad
 source: IBM_ThereWasATime_1982
-source_name: 
+source_name:
 order: '8'
 layout: qatar_item
 collection: temp_collection

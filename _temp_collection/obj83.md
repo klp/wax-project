@@ -4,10 +4,10 @@ label: Collage IBM San Jose Plant
 company: Online Archives California (University of California)
 _date: '1959'
 decade: 50s
-commentary: 
+commentary:
 object_type: photo
 source: CollageIBMSanJosePlant_1959
-source_name: 
+source_name:
 order: '82'
 layout: qatar_item
 collection: temp_collection

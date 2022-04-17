@@ -4,10 +4,10 @@ label: Someday Computers Will Talk
 company: Madison and Wall
 _date: '1971'
 decade: 70s
-commentary: 
+commentary:
 object_type: brochure
 source: SomedayCompTalk_brochure_MadisonandWall_1971
-source_name: 
+source_name:
 order: '9'
 layout: qatar_item
 collection: temp_collection
