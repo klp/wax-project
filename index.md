@@ -8,7 +8,7 @@ banner:
   height: '500px'
 ---
 
-__The Mainframe Project__ is a visual archive of media and commentary about computing before the pre-personal computer era.
+### A digital collection of of archival media that focuses on the computing devices in the workplace before the advent of personal computers.
 
 
 ### Browse the Collection
