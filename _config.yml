@@ -102,22 +102,16 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'About'
-    sub:
-      - label: 'Overview'
-        link: '/about/'
-      - label: 'History'
-        link: '/about/'
-      - label: 'Contributors'
-        link: '/credits/'
-  - label: 'Collection'
+  - label: 'ABOUT'
+    link: '/about/'
+  - label: 'BROWSE'
     link: '/collection/'
-  - label: 'Search'
+  - label: 'BIBLIOGRAPHY'
+    link: '/reuse/'
+  - label: 'BLOG'
+    link: '/reuse/'
+  - label: 'SEARCH'
     link: '/search/'
-  - label: 'Resources'
-    link: '/reuse/'
-  - label: 'Process'
-    link: '/reuse/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
