@@ -33,9 +33,9 @@ p {
   max-width: 100%;
   margin-bottom: $less-margin;
   letter-spacing: .02rem;
-  font-weight: 400;
+  font-weight: 500;
   font-size: 1rem;
-  line-height: 1.75rem;
+  line-height: 1.25rem;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
@@ -53,12 +53,12 @@ header & nav bar
   color: $text-color;
   z-index: 100000;
   padding: $margin;
-  letter-spacing: 0.075rem;
+  letter-spacing: -.04em;
 
   .navbar-brand {
     font-weight: 500;
     color: $accent-light;
-    font-size: 4.5rem;
+    font-size: 2.5em;
     white-space: normal;
   }
 
@@ -110,17 +110,17 @@ content section
     margin-bottom: $less-margin;
     margin-top: $more-margin;
     font-family: $heading-font;
-    letter-spacing: 0.1rem;
+    letter-spacing: -0.04em;
     color: $text-color;
   }
 
   h1 {
     font-size: 2.5rem;
-    font-weight: 300;
+    font-weight: 31.25em;
   }
 
   h2 {
-    font-size: 4rem;
+    font-size: 2.5em;
     letter-spacing: 0.1rem;
   }
 
@@ -131,7 +131,9 @@ content section
   }
 
   h4 {
-    font-size: 1.25rem;
+    font-size: 1.125rem;
+    font-weight: 1.125em;
+    line-height: 20px;
     text-transform: uppercase;
   }
 
@@ -208,7 +210,7 @@ content section
     flex-shrink: 0;
     flex-grow: 1;
     max-width: 100%;
-    justify-items: space-between;
+    justify-items: normal;
     min-width: 250px;
   }
   .footer-title {
@@ -230,9 +232,9 @@ content section
   }
   .footer-links {
     font-family: $heading-font;
-    margin: 0;
-    font-size: .9em;
-    line-height: 1.2;
+    margin: 57;
+    font-size: 1.125em;
+    line-height: 1.25em;
   }
   .footer-logos {
     margin: $margin 0 $margin 0;
@@ -240,10 +242,20 @@ content section
       text-decoration: none;
     }
     img {
-      height: 35px
+      height: 35px;
     }
   }
-}
+  .footer-socials {
+    margin: $margin 0 $margin 0;
+    a {
+      text-decoration: none;
+    }
+    img {
+      height: 17px;
+    }
+  }
+  }
+
 
 
 .wax-inline-container {
