@@ -10,23 +10,20 @@
           <a href="{{ link | absolute_url }}" aria-label="Logo link to resource">
             <img src='{{ item.img | absolute_url }}' alt="logo"/>
           </a>
-                
-      <p class='footer-description'>{{ site.description }}</p>
-      <p class='footer-social-links'>
-        {% for item in site.footer.socials %}
-      <a href="https://twitter.com/themainframeHQ"><img src="/img/twiterLogo.png">
-      <a href="https://www.instagram.com/themainframers/"><img src="/img/InstagramIcon.png">
-        <a hreg="https://themainframehq.tumblr.com/"><img src="/img/tumblrIcon.png">
-        </a>
-    </a>
 
           {% endfor %}
-          
+          </p>
 
-               
-          
-       
+                
+     <p class='footer-description'>{{ site.description }}</p>
+    <p class='footer-socials'>
+      
+      <a href="https://twitter.com/themainframeHQ"><img src="../img/twitter_logo.png"> </a>
+      <a href="https://www.instagram.com/themainframers/"><img src="../img/instagram_icon.png"> </a>
+        <a href="https://themainframehq.tumblr.com/"><img src="../img/tumblr_icon.png"></a>
 
+  
+    
       </div>
       <div class='col'>
       
@@ -44,7 +41,7 @@
           Built with <a href='https://github.com/minicomp/wax/'>Minicomp/Wax </a>
         </p>
         
-        </p>
+       
       </div>
     </div>
   </div>
