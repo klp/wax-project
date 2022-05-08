@@ -593,11 +593,6 @@ layout: none
       "label": "obj15"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj108/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj108"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj120/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj120"
@@ -621,11 +616,6 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj121/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj121"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj109/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj109"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj14/manifest.json",
@@ -703,6 +693,11 @@ layout: none
       "label": "obj24"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/univac_uniscope-300_1960_Page_10/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "univac_uniscope-300_1960_Page_10"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj32/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj32"
@@ -718,11 +713,6 @@ layout: none
       "label": "obj113"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj107/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj107"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj106/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj106"
@@ -736,6 +726,11 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj33/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj33"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/univac_uniscope-300_1960_Page_05/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "univac_uniscope-300_1960_Page_05"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj37/manifest.json",
@@ -836,6 +831,11 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj21/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj21"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/univac_uniscope-300_1960_Page_03/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "univac_uniscope-300_1960_Page_03"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj211/manifest.json",
