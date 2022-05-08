@@ -106,10 +106,10 @@ menu:
     link: '/about/'
   - label: 'BROWSE'
     link: '/collection/'
-  - label: 'BIBLIOGRAPHY'
-    link: '/reuse/'
+  - label: 'RESOURCES'
+    link: '/resources/'
   - label: 'BLOG'
-    link: '/reuse/'
+    link: '/blog/'
   - label: 'SEARCH'
     link: '/search/'
 

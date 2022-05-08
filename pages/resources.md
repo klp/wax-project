@@ -1,9 +1,19 @@
 ---
 layout: page
-title: Reuse the Collection
-permalink: /reuse/
-collection: qatar
+title: Resources
+permalink: /resource/
+collection: mainframe_collection
 ---
+
+## Resources
+
+In the development of this archival collection, we consulted archival and 
+insprational material online, including articles, images, podcasts and videos, 
+as well as books in print.
+
+### Archival resources
+
+### Inspiration
 
 Wax is inspired by [FAIR data principles](https://journal.code4lib.org/articles/13427), and as such strives to make its collections findable, accessible, interoperable and reusable.
 
