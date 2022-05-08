@@ -18,8 +18,8 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            '/img/Geo_Oblique_40px.png'
-description:      'A visual archive of Mainframes in Society'
+title:            'The Mainframe Project'
+description:      'A visual archive of mainframes in society'
 url:              'https://klp.github.io'
 baseurl:          '/wax-project'
 copyright:        '2022'

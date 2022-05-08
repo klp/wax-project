@@ -8,7 +8,7 @@ banner:
   height: '500px'
 ---
 
-### A digital collection of of archival media that focuses on the computing devices in the workplace before the advent of personal computers.
+### A collection of digital archival images that focuses on computing devices before the advent of personal computers.
 
 
 ### Browse the Collection
