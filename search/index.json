@@ -9,9 +9,9 @@ layout: none
     "object_type": "magazine",
     "source": "How_and_Why Mathematics_Page_38",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj34/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj34",
+    "permalink": "/mainframe_collection/obj34",
     "lunr_id": 0
   },
   {
@@ -21,21 +21,21 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_37",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj65/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj65",
+    "permalink": "/mainframe_collection/obj65",
     "lunr_id": 1
   },
   {
     "pid": "obj96",
-    "label": "Radical Software Volume 1 Number 5 Page 24",
-    "_date": "1972",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME1NR5_full_1972_Page_024",
+    "label": "Univac 9400 System Page 12",
+    "_date": "1969",
+    "object_type": "brochure",
+    "source": "univac_9400_1969_Page_12",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj96/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj96",
+    "permalink": "/mainframe_collection/obj96",
     "lunr_id": 2
   },
   {
@@ -45,21 +45,21 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_23",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj51/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj51",
+    "permalink": "/mainframe_collection/obj51",
     "lunr_id": 3
   },
   {
     "pid": "obj101",
-    "label": "Radical Software Volume 1 Number 5 Page 29",
-    "_date": "1972",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME1NR5_full_1972_Page_029",
+    "label": "Univac 9400 System Page 17",
+    "_date": "1969",
+    "object_type": "brochure",
+    "source": "univac_9400_1969_Page_17",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj101/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj101",
+    "permalink": "/mainframe_collection/obj101",
     "lunr_id": 4
   },
   {
@@ -69,9 +69,9 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_19",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj150/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj150",
+    "permalink": "/mainframe_collection/obj150",
     "lunr_id": 5
   },
   {
@@ -81,9 +81,9 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_09",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj232/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj232",
+    "permalink": "/mainframe_collection/obj232",
     "lunr_id": 6
   },
   {
@@ -93,9 +93,9 @@ layout: none
     "object_type": "brochure",
     "source": "computerterminalcorporation_datapoint3300_1969_Page_05",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj164/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj164",
+    "permalink": "/mainframe_collection/obj164",
     "lunr_id": 7
   },
   {
@@ -105,9 +105,9 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_04",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj135/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj135",
+    "permalink": "/mainframe_collection/obj135",
     "lunr_id": 8
   },
   {
@@ -117,9 +117,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_07",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj206/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj206",
+    "permalink": "/mainframe_collection/obj206",
     "lunr_id": 9
   },
   {
@@ -129,9 +129,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_argus_1961_Page_13",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj197/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj197",
+    "permalink": "/mainframe_collection/obj197",
     "lunr_id": 10
   },
   {
@@ -141,9 +141,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_argus_1961_Page_03",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj187/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj187",
+    "permalink": "/mainframe_collection/obj187",
     "lunr_id": 11
   },
   {
@@ -153,9 +153,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_17",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj216/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj216",
+    "permalink": "/mainframe_collection/obj216",
     "lunr_id": 12
   },
   {
@@ -165,9 +165,9 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_24",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj247/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj247",
+    "permalink": "/mainframe_collection/obj247",
     "lunr_id": 13
   },
   {
@@ -177,9 +177,9 @@ layout: none
     "object_type": "photo",
     "source": "LoveAtTheMainfraime_DateUnknown",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj125/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj125",
+    "permalink": "/mainframe_collection/obj125",
     "lunr_id": 14
   },
   {
@@ -189,9 +189,9 @@ layout: none
     "object_type": "brochure",
     "source": "DedicatedDisc_HP_1971_Page_05",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj174/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj174",
+    "permalink": "/mainframe_collection/obj174",
     "lunr_id": 15
   },
   {
@@ -201,9 +201,9 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965",
     "source_name": "H316 General Purpose Digital Computer",
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj5/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj5",
+    "permalink": "/mainframe_collection/obj5",
     "lunr_id": 16
   },
   {
@@ -213,9 +213,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_23",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj222/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj222",
+    "permalink": "/mainframe_collection/obj222",
     "lunr_id": 17
   },
   {
@@ -225,9 +225,9 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_09",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj140/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj140",
+    "permalink": "/mainframe_collection/obj140",
     "lunr_id": 18
   },
   {
@@ -237,9 +237,9 @@ layout: none
     "object_type": "magazine",
     "source": "BakingYear2000_1970",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj111/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj111",
+    "permalink": "/mainframe_collection/obj111",
     "lunr_id": 19
   },
   {
@@ -249,9 +249,9 @@ layout: none
     "object_type": "brochure",
     "source": "SomedayCompTalk_brochure_MadisonandWall_1971",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj10/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj10",
+    "permalink": "/mainframe_collection/obj10",
     "lunr_id": 20
   },
   {
@@ -261,21 +261,21 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_13",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj41/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj41",
+    "permalink": "/mainframe_collection/obj41",
     "lunr_id": 21
   },
   {
     "pid": "obj86",
-    "label": "Radical Software Volume 1 Number 1 Page 8",
-    "_date": "1970",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME1NR1_full_1970_Page_08",
+    "label": "Univac 9400 System Page 2",
+    "_date": "1969",
+    "object_type": "brochure",
+    "source": "univac_9400_1969_Page_02",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj86/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj86",
+    "permalink": "/mainframe_collection/obj86",
     "lunr_id": 22
   },
   {
@@ -285,9 +285,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_47",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj75/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj75",
+    "permalink": "/mainframe_collection/obj75",
     "lunr_id": 23
   },
   {
@@ -297,9 +297,9 @@ layout: none
     "object_type": "brochure",
     "source": "Bendix_G15_1956_Page_14",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj24/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj24",
+    "permalink": "/mainframe_collection/obj24",
     "lunr_id": 24
   },
   {
@@ -309,9 +309,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_27",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj55/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj55",
+    "permalink": "/mainframe_collection/obj55",
     "lunr_id": 25
   },
   {
@@ -321,9 +321,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_33",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj61/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj61",
+    "permalink": "/mainframe_collection/obj61",
     "lunr_id": 26
   },
   {
@@ -333,21 +333,21 @@ layout: none
     "object_type": "magazine",
     "source": "6.how-why-electronics_Page_06",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj30/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj30",
+    "permalink": "/mainframe_collection/obj30",
     "lunr_id": 27
   },
   {
     "pid": "obj92",
-    "label": "Radical Software Volume 1 Number 4 Page 1",
-    "_date": "1971",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME1NR4_full_1971_Page_01",
+    "label": "Univac 9400 System Page 8",
+    "_date": "1969",
+    "object_type": "brochure",
+    "source": "univac_9400_1969_Page_08",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj92/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj92",
+    "permalink": "/mainframe_collection/obj92",
     "lunr_id": 28
   },
   {
@@ -357,9 +357,9 @@ layout: none
     "object_type": "book",
     "source": "Time-LifeBooks_RoyLunn_TheEngineer_1975",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj131/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj131",
+    "permalink": "/mainframe_collection/obj131",
     "lunr_id": 29
   },
   {
@@ -369,9 +369,9 @@ layout: none
     "object_type": "brochure",
     "source": "computerterminalcorporation_datapoint3300_1969_Page_01",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj160/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj160",
+    "permalink": "/mainframe_collection/obj160",
     "lunr_id": 30
   },
   {
@@ -381,9 +381,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_argus_1961_Page_09",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj193/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj193",
+    "permalink": "/mainframe_collection/obj193",
     "lunr_id": 31
   },
   {
@@ -393,9 +393,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_03",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj202/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj202",
+    "permalink": "/mainframe_collection/obj202",
     "lunr_id": 32
   },
   {
@@ -405,21 +405,21 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_23",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj154/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj154",
+    "permalink": "/mainframe_collection/obj154",
     "lunr_id": 33
   },
   {
     "pid": "obj105",
-    "label": "Radical Software Volume 1 Number 5 Page 59",
-    "_date": "1972",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME1NR5_full_1972_Page_059",
+    "label": "Univac 9400 System Page 21",
+    "_date": "1969",
+    "object_type": "brochure",
+    "source": "univac_9400_1969_Page_21",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj105/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj105",
+    "permalink": "/mainframe_collection/obj105",
     "lunr_id": 34
   },
   {
@@ -429,9 +429,9 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_13",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj236/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj236",
+    "permalink": "/mainframe_collection/obj236",
     "lunr_id": 35
   },
   {
@@ -441,9 +441,9 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_03",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj226/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj226",
+    "permalink": "/mainframe_collection/obj226",
     "lunr_id": 36
   },
   {
@@ -453,9 +453,9 @@ layout: none
     "object_type": "photo",
     "source": "CompAge_EvolIBM_1976",
     "source_name": "The Computer Age: The Evolution of IBM Computers",
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj1",
+    "permalink": "/mainframe_collection/obj1",
     "lunr_id": 37
   },
   {
@@ -465,9 +465,9 @@ layout: none
     "object_type": "photo",
     "source": "ControlData844_diskstorage_NASA_AmesResearchCenter_1980",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj115/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj115",
+    "permalink": "/mainframe_collection/obj115",
     "lunr_id": 38
   },
   {
@@ -477,9 +477,9 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_13",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj144/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj144",
+    "permalink": "/mainframe_collection/obj144",
     "lunr_id": 39
   },
   {
@@ -489,9 +489,9 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_20",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj243/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj243",
+    "permalink": "/mainframe_collection/obj243",
     "lunr_id": 40
   },
   {
@@ -501,9 +501,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_13",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj212/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj212",
+    "permalink": "/mainframe_collection/obj212",
     "lunr_id": 41
   },
   {
@@ -513,9 +513,9 @@ layout: none
     "object_type": "brochure",
     "source": "DedicatedDisc_HP_1971_Page_14",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj183/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj183",
+    "permalink": "/mainframe_collection/obj183",
     "lunr_id": 42
   },
   {
@@ -525,9 +525,9 @@ layout: none
     "object_type": "brochure",
     "source": "DedicatedDisc_HP_1971_Page_01",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj170/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj170",
+    "permalink": "/mainframe_collection/obj170",
     "lunr_id": 43
   },
   {
@@ -537,9 +537,9 @@ layout: none
     "object_type": "brochure",
     "source": "GeneralElectricTermiNet300_DataCommunicationPrinter_Brochure_1971",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj121/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj121",
+    "permalink": "/mainframe_collection/obj121",
     "lunr_id": 44
   },
   {
@@ -549,9 +549,9 @@ layout: none
     "object_type": "brochure",
     "source": "IBM _Electric_ModelB_brochure_1955_Page_4",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj82/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj82",
+    "permalink": "/mainframe_collection/obj82",
     "lunr_id": 45
   },
   {
@@ -561,9 +561,9 @@ layout: none
     "object_type": "brochure",
     "source": "Bendix_G15_1956_Page_10",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj20/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj20",
+    "permalink": "/mainframe_collection/obj20",
     "lunr_id": 46
   },
   {
@@ -573,9 +573,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_43",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj71/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj71",
+    "permalink": "/mainframe_collection/obj71",
     "lunr_id": 47
   },
   {
@@ -585,9 +585,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_17",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj45/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj45",
+    "permalink": "/mainframe_collection/obj45",
     "lunr_id": 48
   },
   {
@@ -597,9 +597,9 @@ layout: none
     "object_type": "brochure",
     "source": "Bendix_G15_1956_Page_04",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj14/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj14",
+    "permalink": "/mainframe_collection/obj14",
     "lunr_id": 49
   },
   {
@@ -609,9 +609,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_26",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj54/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj54",
+    "permalink": "/mainframe_collection/obj54",
     "lunr_id": 50
   },
   {
@@ -621,9 +621,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_32",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj60/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj60",
+    "permalink": "/mainframe_collection/obj60",
     "lunr_id": 51
   },
   {
@@ -633,21 +633,21 @@ layout: none
     "object_type": "magazine",
     "source": "6.how-why-electronics_Page_07",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj31/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj31",
+    "permalink": "/mainframe_collection/obj31",
     "lunr_id": 52
   },
   {
     "pid": "obj93",
-    "label": "Radical Software Volume 1 Number 4 Page 76",
-    "_date": "1971",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME1NR4_full_1971_Page_76",
+    "label": "Univac 9400 System Page 9",
+    "_date": "1969",
+    "object_type": "brochure",
+    "source": "univac_9400_1969_Page_09",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj93/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj93",
+    "permalink": "/mainframe_collection/obj93",
     "lunr_id": 53
   },
   {
@@ -657,9 +657,9 @@ layout: none
     "object_type": "brochure",
     "source": "Tektronix_4051peripherals_1976",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj130/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj130",
+    "permalink": "/mainframe_collection/obj130",
     "lunr_id": 54
   },
   {
@@ -669,9 +669,9 @@ layout: none
     "object_type": "brochure",
     "source": "computerterminalcorporation_datapoint3300_1969_Page_02",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj161/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj161",
+    "permalink": "/mainframe_collection/obj161",
     "lunr_id": 55
   },
   {
@@ -681,9 +681,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_04",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj203/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj203",
+    "permalink": "/mainframe_collection/obj203",
     "lunr_id": 56
   },
   {
@@ -693,9 +693,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_argus_1961_Page_08",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj192/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj192",
+    "permalink": "/mainframe_collection/obj192",
     "lunr_id": 57
   },
   {
@@ -705,21 +705,21 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_24",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj155/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj155",
+    "permalink": "/mainframe_collection/obj155",
     "lunr_id": 58
   },
   {
     "pid": "obj104",
-    "label": "Radical Software Volume 1 Number 5 Page 58",
-    "_date": "1972",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME1NR5_full_1972_Page_058",
+    "label": "Univac 9400 System Page 20",
+    "_date": "1969",
+    "object_type": "brochure",
+    "source": "univac_9400_1969_Page_20",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj104/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj104",
+    "permalink": "/mainframe_collection/obj104",
     "lunr_id": 59
   },
   {
@@ -729,9 +729,9 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_14",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj237/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj237",
+    "permalink": "/mainframe_collection/obj237",
     "lunr_id": 60
   },
   {
@@ -741,9 +741,9 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_04",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj227/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj227",
+    "permalink": "/mainframe_collection/obj227",
     "lunr_id": 61
   },
   {
@@ -753,9 +753,9 @@ layout: none
     "object_type": "magazine",
     "source": "ComputersAndAutomation_magazine_August1968",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj114/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj114",
+    "permalink": "/mainframe_collection/obj114",
     "lunr_id": 62
   },
   {
@@ -765,9 +765,9 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_14",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj145/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj145",
+    "permalink": "/mainframe_collection/obj145",
     "lunr_id": 63
   },
   {
@@ -777,9 +777,9 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_19",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj242/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj242",
+    "permalink": "/mainframe_collection/obj242",
     "lunr_id": 64
   },
   {
@@ -789,9 +789,9 @@ layout: none
     "object_type": "brochure",
     "source": "DedicatedDisc_HP_1971_Page_13",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj182/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj182",
+    "permalink": "/mainframe_collection/obj182",
     "lunr_id": 65
   },
   {
@@ -801,9 +801,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_14",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj213/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj213",
+    "permalink": "/mainframe_collection/obj213",
     "lunr_id": 66
   },
   {
@@ -813,9 +813,9 @@ layout: none
     "object_type": "brochure",
     "source": "DedicatedDisc_HP_1971_Page_02",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj171/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj171",
+    "permalink": "/mainframe_collection/obj171",
     "lunr_id": 67
   },
   {
@@ -825,9 +825,9 @@ layout: none
     "object_type": "gallery book",
     "source": "FutureComputers_FutureWorld_galleryBooks_1989",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj120/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj120",
+    "permalink": "/mainframe_collection/obj120",
     "lunr_id": 68
   },
   {
@@ -837,9 +837,9 @@ layout: none
     "object_type": "photo",
     "source": "CollageIBMSanJosePlant_1959",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj83/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj83",
+    "permalink": "/mainframe_collection/obj83",
     "lunr_id": 69
   },
   {
@@ -849,9 +849,9 @@ layout: none
     "object_type": "brochure",
     "source": "Bendix_G15_1956_Page_11",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj21/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj21",
+    "permalink": "/mainframe_collection/obj21",
     "lunr_id": 70
   },
   {
@@ -861,9 +861,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_42",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj70/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj70",
+    "permalink": "/mainframe_collection/obj70",
     "lunr_id": 71
   },
   {
@@ -873,9 +873,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_16",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj44/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj44",
+    "permalink": "/mainframe_collection/obj44",
     "lunr_id": 72
   },
   {
@@ -885,9 +885,9 @@ layout: none
     "object_type": "brochure",
     "source": "Bendix_G15_1956_Page_05",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj15/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj15",
+    "permalink": "/mainframe_collection/obj15",
     "lunr_id": 73
   },
   {
@@ -897,9 +897,9 @@ layout: none
     "object_type": "magazine",
     "source": "How_and_Why Mathematics_Page_39",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj35/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj35",
+    "permalink": "/mainframe_collection/obj35",
     "lunr_id": 74
   },
   {
@@ -909,21 +909,21 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_36",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj64/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj64",
+    "permalink": "/mainframe_collection/obj64",
     "lunr_id": 75
   },
   {
     "pid": "obj97",
-    "label": "Radical Software Volume 1 Number 5 Page 25",
-    "_date": "1972",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME1NR5_full_1972_Page_025",
+    "label": "Univac 9400 System Page 13",
+    "_date": "1969",
+    "object_type": "brochure",
+    "source": "univac_9400_1969_Page_13",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj97/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj97",
+    "permalink": "/mainframe_collection/obj97",
     "lunr_id": 76
   },
   {
@@ -933,21 +933,21 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_22",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj50/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj50",
+    "permalink": "/mainframe_collection/obj50",
     "lunr_id": 77
   },
   {
     "pid": "obj100",
-    "label": "Radical Software Volume 1 Number 5 Page 28",
-    "_date": "1972",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME1NR5_full_1972_Page_028",
+    "label": "Univac 9400 System Page 16",
+    "_date": "1969",
+    "object_type": "brochure",
+    "source": "univac_9400_1969_Page_16",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj100/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj100",
+    "permalink": "/mainframe_collection/obj100",
     "lunr_id": 78
   },
   {
@@ -957,9 +957,9 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_20",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj151/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj151",
+    "permalink": "/mainframe_collection/obj151",
     "lunr_id": 79
   },
   {
@@ -969,9 +969,9 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_10",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj233/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj233",
+    "permalink": "/mainframe_collection/obj233",
     "lunr_id": 80
   },
   {
@@ -981,9 +981,9 @@ layout: none
     "object_type": "brochure",
     "source": "computerterminalcorporation_datapoint3300_1969_Page_06",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj165/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj165",
+    "permalink": "/mainframe_collection/obj165",
     "lunr_id": 81
   },
   {
@@ -993,9 +993,9 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_03",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj134/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj134",
+    "permalink": "/mainframe_collection/obj134",
     "lunr_id": 82
   },
   {
@@ -1005,9 +1005,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_argus_1961_Page_12",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj196/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj196",
+    "permalink": "/mainframe_collection/obj196",
     "lunr_id": 83
   },
   {
@@ -1017,9 +1017,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_08",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj207/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj207",
+    "permalink": "/mainframe_collection/obj207",
     "lunr_id": 84
   },
   {
@@ -1029,9 +1029,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_18",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj217/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj217",
+    "permalink": "/mainframe_collection/obj217",
     "lunr_id": 85
   },
   {
@@ -1041,9 +1041,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_argus_1961_Page_02",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj186/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj186",
+    "permalink": "/mainframe_collection/obj186",
     "lunr_id": 86
   },
   {
@@ -1053,9 +1053,9 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_23",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj246/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj246",
+    "permalink": "/mainframe_collection/obj246",
     "lunr_id": 87
   },
   {
@@ -1065,9 +1065,9 @@ layout: none
     "object_type": "magazine",
     "source": "KilobaudMicrocomputing_magazine_June1980",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj124/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj124",
+    "permalink": "/mainframe_collection/obj124",
     "lunr_id": 88
   },
   {
@@ -1077,9 +1077,9 @@ layout: none
     "object_type": "brochure",
     "source": "DedicatedDisc_HP_1971_Page_06",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj175/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj175",
+    "permalink": "/mainframe_collection/obj175",
     "lunr_id": 89
   },
   {
@@ -1089,9 +1089,9 @@ layout: none
     "object_type": "photo",
     "source": "CompAge_EvolIBM_1978",
     "source_name": "The Computer Age: The Evolution of IBM Computers",
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj4",
+    "permalink": "/mainframe_collection/obj4",
     "lunr_id": 90
   },
   {
@@ -1101,9 +1101,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_24",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj223/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj223",
+    "permalink": "/mainframe_collection/obj223",
     "lunr_id": 91
   },
   {
@@ -1113,9 +1113,9 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_10",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj141/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj141",
+    "permalink": "/mainframe_collection/obj141",
     "lunr_id": 92
   },
   {
@@ -1125,9 +1125,9 @@ layout: none
     "object_type": "book",
     "source": "ArtistandComputer_HarmonyBooks_1976",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj110/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj110",
+    "permalink": "/mainframe_collection/obj110",
     "lunr_id": 93
   },
   {
@@ -1137,9 +1137,9 @@ layout: none
     "object_type": "brochure",
     "source": "Bendix_G15_1956_Page_01",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj11/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj11",
+    "permalink": "/mainframe_collection/obj11",
     "lunr_id": 94
   },
   {
@@ -1149,21 +1149,21 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_12",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj40/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj40",
+    "permalink": "/mainframe_collection/obj40",
     "lunr_id": 95
   },
   {
     "pid": "obj87",
-    "label": "Radical Software Volume 1 Number 1 Page 18",
-    "_date": "1970",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME1NR1_full_1970_Page_18",
+    "label": "Univac 9400 System Page 3",
+    "_date": "1969",
+    "object_type": "brochure",
+    "source": "univac_9400_1969_Page_03",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj87/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj87",
+    "permalink": "/mainframe_collection/obj87",
     "lunr_id": 96
   },
   {
@@ -1173,9 +1173,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_46",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj74/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj74",
+    "permalink": "/mainframe_collection/obj74",
     "lunr_id": 97
   },
   {
@@ -1185,9 +1185,9 @@ layout: none
     "object_type": "brochure",
     "source": "Bendix_G15_1956_Page_15",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj25/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj25",
+    "permalink": "/mainframe_collection/obj25",
     "lunr_id": 98
   },
   {
@@ -1197,9 +1197,9 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_15",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj238/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj238",
+    "permalink": "/mainframe_collection/obj238",
     "lunr_id": 99
   },
   {
@@ -1209,9 +1209,9 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_05",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj228/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj228",
+    "permalink": "/mainframe_collection/obj228",
     "lunr_id": 100
   },
   {
@@ -1221,9 +1221,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_09",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj208/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj208",
+    "permalink": "/mainframe_collection/obj208",
     "lunr_id": 101
   },
   {
@@ -1233,33 +1233,33 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_argus_1961_Page_15",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj199/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj199",
+    "permalink": "/mainframe_collection/obj199",
     "lunr_id": 102
   },
   {
     "pid": "obj98",
-    "label": "Radical Software Volume 1 Number 5 Page 26",
-    "_date": "1972",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME1NR5_full_1972_Page_026",
+    "label": "Univac 9400 System Page 14",
+    "_date": "1969",
+    "object_type": "brochure",
+    "source": "univac_9400_1969_Page_14",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj98/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj98",
+    "permalink": "/mainframe_collection/obj98",
     "lunr_id": 103
   },
   {
     "pid": "obj88",
-    "label": "Radical Software Volume 1 Number 1 Page 19",
-    "_date": "1970",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME1NR1_full_1970_Page_19",
+    "label": "Univac 9400 System Page 4",
+    "_date": "1969",
+    "object_type": "brochure",
+    "source": "univac_9400_1969_Page_04",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj88/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj88",
+    "permalink": "/mainframe_collection/obj88",
     "lunr_id": 104
   },
   {
@@ -1269,9 +1269,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_argus_1961_Page_05",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj189/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj189",
+    "permalink": "/mainframe_collection/obj189",
     "lunr_id": 105
   },
   {
@@ -1281,9 +1281,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_19",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj218/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj218",
+    "permalink": "/mainframe_collection/obj218",
     "lunr_id": 106
   },
   {
@@ -1293,9 +1293,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_argus_1961_Page_14",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj198/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj198",
+    "permalink": "/mainframe_collection/obj198",
     "lunr_id": 107
   },
   {
@@ -1305,33 +1305,33 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_10",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj209/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj209",
+    "permalink": "/mainframe_collection/obj209",
     "lunr_id": 108
   },
   {
     "pid": "obj99",
-    "label": "Radical Software Volume 1 Number 5 Page 27",
-    "_date": "1972",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME1NR5_full_1972_Page_027",
+    "label": "Univac 9400 System Page 15",
+    "_date": "1969",
+    "object_type": "brochure",
+    "source": "univac_9400_1969_Page_15",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj99/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj99",
+    "permalink": "/mainframe_collection/obj99",
     "lunr_id": 109
   },
   {
     "pid": "obj89",
-    "label": "Radical Software Volume 1 Number 1 Page 20",
-    "_date": "1970",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME1NR1_full_1970_Page_20",
+    "label": "Univac 9400 System Page 5",
+    "_date": "1969",
+    "object_type": "brochure",
+    "source": "univac_9400_1969_Page_05",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj89/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj89",
+    "permalink": "/mainframe_collection/obj89",
     "lunr_id": 110
   },
   {
@@ -1341,9 +1341,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_20",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj219/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj219",
+    "permalink": "/mainframe_collection/obj219",
     "lunr_id": 111
   },
   {
@@ -1353,9 +1353,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_argus_1961_Page_04",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj188/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj188",
+    "permalink": "/mainframe_collection/obj188",
     "lunr_id": 112
   },
   {
@@ -1365,9 +1365,9 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_16",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj239/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj239",
+    "permalink": "/mainframe_collection/obj239",
     "lunr_id": 113
   },
   {
@@ -1377,9 +1377,9 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_06",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj229/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj229",
+    "permalink": "/mainframe_collection/obj229",
     "lunr_id": 114
   },
   {
@@ -1389,9 +1389,9 @@ layout: none
     "object_type": "brochure",
     "source": "computerterminalcorporation_datapoint3300_1969_Page_09",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj168/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj168",
+    "permalink": "/mainframe_collection/obj168",
     "lunr_id": 115
   },
   {
@@ -1401,9 +1401,9 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_08",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj139/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj139",
+    "permalink": "/mainframe_collection/obj139",
     "lunr_id": 116
   },
   {
@@ -1413,9 +1413,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_10",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj38/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj38",
+    "permalink": "/mainframe_collection/obj38",
     "lunr_id": 117
   },
   {
@@ -1425,9 +1425,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_41",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj69/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj69",
+    "permalink": "/mainframe_collection/obj69",
     "lunr_id": 118
   },
   {
@@ -1437,9 +1437,9 @@ layout: none
     "object_type": "brochure",
     "source": "IBM _Electric_ModelB_brochure_1955_Page_1",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj79/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj79",
+    "permalink": "/mainframe_collection/obj79",
     "lunr_id": 119
   },
   {
@@ -1449,9 +1449,9 @@ layout: none
     "object_type": "magazine",
     "source": "6.how-why-electronics_Page_01",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj28/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj28",
+    "permalink": "/mainframe_collection/obj28",
     "lunr_id": 120
   },
   {
@@ -1461,9 +1461,9 @@ layout: none
     "object_type": "ad",
     "source": "IBM_ThereWasATime_1982",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj9/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj9",
+    "permalink": "/mainframe_collection/obj9",
     "lunr_id": 121
   },
   {
@@ -1473,9 +1473,9 @@ layout: none
     "object_type": "brochure",
     "source": "Sears_FloorModelComputerPlayset_1978",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj129/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj129",
+    "permalink": "/mainframe_collection/obj129",
     "lunr_id": 122
   },
   {
@@ -1485,9 +1485,9 @@ layout: none
     "object_type": "brochure",
     "source": "DedicatedDisc_HP_1971_Page_09",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj178/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj178",
+    "permalink": "/mainframe_collection/obj178",
     "lunr_id": 123
   },
   {
@@ -1497,21 +1497,21 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_27",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj158/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj158",
+    "permalink": "/mainframe_collection/obj158",
     "lunr_id": 124
   },
   {
     "pid": "obj109",
-    "label": "Radical Software Volume 2 Number 4 Page 1",
-    "_date": "1972",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME2NR4_full_1972_Page_01",
+    "label": "Univac Uniscope 300 Page 10",
+    "_date": "1960",
+    "object_type": "brochure",
+    "source": "univac_uniscope-300_1960_Page_10",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj109/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj109",
+    "permalink": "/mainframe_collection/obj109",
     "lunr_id": 125
   },
   {
@@ -1521,9 +1521,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_31",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj59/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj59",
+    "permalink": "/mainframe_collection/obj59",
     "lunr_id": 126
   },
   {
@@ -1533,9 +1533,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_21",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj49/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj49",
+    "permalink": "/mainframe_collection/obj49",
     "lunr_id": 127
   },
   {
@@ -1545,9 +1545,9 @@ layout: none
     "object_type": "brochure",
     "source": "Bendix_G15_1956_Page_08",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj18/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj18",
+    "permalink": "/mainframe_collection/obj18",
     "lunr_id": 128
   },
   {
@@ -1557,9 +1557,9 @@ layout: none
     "object_type": "pamphlet",
     "source": "DavidF.Webber_TheComputersAreComing_SouthwestRadioChurch_1980",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj119/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj119",
+    "permalink": "/mainframe_collection/obj119",
     "lunr_id": 129
   },
   {
@@ -1569,9 +1569,9 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_17",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj148/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj148",
+    "permalink": "/mainframe_collection/obj148",
     "lunr_id": 130
   },
   {
@@ -1581,21 +1581,21 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_28",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj159/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj159",
+    "permalink": "/mainframe_collection/obj159",
     "lunr_id": 131
   },
   {
     "pid": "obj108",
-    "label": "Radical Software Volume 2 Number 1 Page 46",
-    "_date": "1972",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME2NR1_full_1972_Page_46",
+    "label": "Univac Uniscope 300 Page 5",
+    "_date": "1960",
+    "object_type": "brochure",
+    "source": "univac_uniscope-300_1960_Page_05",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj108/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj108",
+    "permalink": "/mainframe_collection/obj108",
     "lunr_id": 132
   },
   {
@@ -1605,9 +1605,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_30",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj58/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj58",
+    "permalink": "/mainframe_collection/obj58",
     "lunr_id": 133
   },
   {
@@ -1617,9 +1617,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_20",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj48/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj48",
+    "permalink": "/mainframe_collection/obj48",
     "lunr_id": 134
   },
   {
@@ -1629,9 +1629,9 @@ layout: none
     "object_type": "brochure",
     "source": "Bendix_G15_1956_Page_09",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj19/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj19",
+    "permalink": "/mainframe_collection/obj19",
     "lunr_id": 135
   },
   {
@@ -1641,9 +1641,9 @@ layout: none
     "object_type": "brochure",
     "source": "DavidCare_HowItWorks_LadybirdBooks_1971",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj118/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj118",
+    "permalink": "/mainframe_collection/obj118",
     "lunr_id": 136
   },
   {
@@ -1653,9 +1653,9 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_18",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj149/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj149",
+    "permalink": "/mainframe_collection/obj149",
     "lunr_id": 137
   },
   {
@@ -1665,9 +1665,9 @@ layout: none
     "object_type": "brochure",
     "source": "computerterminalcorporation_datapoint3300_1969_Page_10",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj169/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj169",
+    "permalink": "/mainframe_collection/obj169",
     "lunr_id": 138
   },
   {
@@ -1677,9 +1677,9 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_07",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj138/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj138",
+    "permalink": "/mainframe_collection/obj138",
     "lunr_id": 139
   },
   {
@@ -1689,9 +1689,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_11",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj39/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj39",
+    "permalink": "/mainframe_collection/obj39",
     "lunr_id": 140
   },
   {
@@ -1701,9 +1701,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_40",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj68/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj68",
+    "permalink": "/mainframe_collection/obj68",
     "lunr_id": 141
   },
   {
@@ -1713,9 +1713,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_50",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj78/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj78",
+    "permalink": "/mainframe_collection/obj78",
     "lunr_id": 142
   },
   {
@@ -1725,9 +1725,9 @@ layout: none
     "object_type": "magazine",
     "source": "6.how-why-electronics_Page_02",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj29/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj29",
+    "permalink": "/mainframe_collection/obj29",
     "lunr_id": 143
   },
   {
@@ -1737,9 +1737,9 @@ layout: none
     "object_type": "ad",
     "source": "IBM_Customer_Executive_Program_Port_1978",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj8/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj8",
+    "permalink": "/mainframe_collection/obj8",
     "lunr_id": 144
   },
   {
@@ -1749,9 +1749,9 @@ layout: none
     "object_type": "magazine",
     "source": "RecreationalComputing_NovDec_1979",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj128/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj128",
+    "permalink": "/mainframe_collection/obj128",
     "lunr_id": 145
   },
   {
@@ -1761,9 +1761,9 @@ layout: none
     "object_type": "brochure",
     "source": "DedicatedDisc_HP_1971_Page_10",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj179/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj179",
+    "permalink": "/mainframe_collection/obj179",
     "lunr_id": 146
   },
   {
@@ -1773,21 +1773,21 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_29",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj57/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj57",
+    "permalink": "/mainframe_collection/obj57",
     "lunr_id": 147
   },
   {
     "pid": "obj90",
-    "label": "Radical Software Volume 1 Number 3 Page 1",
-    "_date": "1971",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME1NR3_full_1971_Page_01",
+    "label": "Univac 9400 System Page 6",
+    "_date": "1969",
+    "object_type": "brochure",
+    "source": "univac_9400_1969_Page_06",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj90/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj90",
+    "permalink": "/mainframe_collection/obj90",
     "lunr_id": 148
   },
   {
@@ -1797,9 +1797,9 @@ layout: none
     "object_type": "magazine",
     "source": "How_and_Why Mathematics_Page_01",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj32/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj32",
+    "permalink": "/mainframe_collection/obj32",
     "lunr_id": 149
   },
   {
@@ -1809,9 +1809,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_35",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj63/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj63",
+    "permalink": "/mainframe_collection/obj63",
     "lunr_id": 150
   },
   {
@@ -1821,9 +1821,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_argus_1961_Page_07",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj191/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj191",
+    "permalink": "/mainframe_collection/obj191",
     "lunr_id": 151
   },
   {
@@ -1833,9 +1833,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_01",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj200/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj200",
+    "permalink": "/mainframe_collection/obj200",
     "lunr_id": 152
   },
   {
@@ -1845,9 +1845,9 @@ layout: none
     "object_type": "brochure",
     "source": "computerterminalcorporation_datapoint3300_1969_Page_03",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj162/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj162",
+    "permalink": "/mainframe_collection/obj162",
     "lunr_id": 153
   },
   {
@@ -1857,9 +1857,9 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_02",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj133/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj133",
+    "permalink": "/mainframe_collection/obj133",
     "lunr_id": 154
   },
   {
@@ -1869,21 +1869,21 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_11",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj234/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj234",
+    "permalink": "/mainframe_collection/obj234",
     "lunr_id": 155
   },
   {
     "pid": "obj107",
-    "label": "Radical Software Volume 2 Number 1 Page 45",
-    "_date": "1972",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME2NR1_full_1972_Page_45",
+    "label": "Univac Uniscope 300 Page 3",
+    "_date": "1960",
+    "object_type": "brochure",
+    "source": "univac_uniscope-300_1960_Page_03",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj107/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj107",
+    "permalink": "/mainframe_collection/obj107",
     "lunr_id": 156
   },
   {
@@ -1893,9 +1893,9 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_25",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj156/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj156",
+    "permalink": "/mainframe_collection/obj156",
     "lunr_id": 157
   },
   {
@@ -1905,9 +1905,9 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_15",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj146/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj146",
+    "permalink": "/mainframe_collection/obj146",
     "lunr_id": 158
   },
   {
@@ -1917,9 +1917,9 @@ layout: none
     "object_type": "brochure",
     "source": "DataGeneral_NovaSuperNova_brochure_1970",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj117/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj117",
+    "permalink": "/mainframe_collection/obj117",
     "lunr_id": 159
   },
   {
@@ -1929,9 +1929,9 @@ layout: none
     "object_type": "photo",
     "source": "CompAge_EvolIBM_1978",
     "source_name": "The Computer Age: The Evolution of IBM Computers",
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj3",
+    "permalink": "/mainframe_collection/obj3",
     "lunr_id": 160
   },
   {
@@ -1941,9 +1941,9 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_01",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj224/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj224",
+    "permalink": "/mainframe_collection/obj224",
     "lunr_id": 161
   },
   {
@@ -1953,9 +1953,9 @@ layout: none
     "object_type": "user manual",
     "source": "IntertecDataSystems_SuperBrain_UsersManual_1980",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj123/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj123",
+    "permalink": "/mainframe_collection/obj123",
     "lunr_id": 162
   },
   {
@@ -1965,9 +1965,9 @@ layout: none
     "object_type": "brochure",
     "source": "DedicatedDisc_HP_1971_Page_03",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj172/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj172",
+    "permalink": "/mainframe_collection/obj172",
     "lunr_id": 163
   },
   {
@@ -1977,9 +1977,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_11",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj210/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj210",
+    "permalink": "/mainframe_collection/obj210",
     "lunr_id": 164
   },
   {
@@ -1989,9 +1989,9 @@ layout: none
     "object_type": "brochure",
     "source": "DedicatedDisc_HP_1971_Page_12",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj181/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj181",
+    "permalink": "/mainframe_collection/obj181",
     "lunr_id": 165
   },
   {
@@ -2001,9 +2001,9 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_18",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj241/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj241",
+    "permalink": "/mainframe_collection/obj241",
     "lunr_id": 166
   },
   {
@@ -2013,9 +2013,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_45",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj73/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj73",
+    "permalink": "/mainframe_collection/obj73",
     "lunr_id": 167
   },
   {
@@ -2025,9 +2025,9 @@ layout: none
     "object_type": "brochure",
     "source": "Bendix_G15_1956_Page_12",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj22/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj22",
+    "permalink": "/mainframe_collection/obj22",
     "lunr_id": 168
   },
   {
@@ -2037,9 +2037,9 @@ layout: none
     "object_type": "brochure",
     "source": "IBM _Electric_ModelB_brochure_1955_Page_2",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj80/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj80",
+    "permalink": "/mainframe_collection/obj80",
     "lunr_id": 169
   },
   {
@@ -2049,9 +2049,9 @@ layout: none
     "object_type": "brochure",
     "source": "Bendix_G15_1956_Page_06",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj16/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj16",
+    "permalink": "/mainframe_collection/obj16",
     "lunr_id": 170
   },
   {
@@ -2061,21 +2061,21 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_19",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj47/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj47",
+    "permalink": "/mainframe_collection/obj47",
     "lunr_id": 171
   },
   {
     "pid": "obj94",
-    "label": "Radical Software Volume 1 Number 4 Page 77",
-    "_date": "1971",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME1NR4_full_1971_Page_77",
+    "label": "Univac 9400 System Page 10",
+    "_date": "1969",
+    "object_type": "brochure",
+    "source": "univac_9400_1969_Page_10",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj94/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj94",
+    "permalink": "/mainframe_collection/obj94",
     "lunr_id": 172
   },
   {
@@ -2085,9 +2085,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_39",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj67/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj67",
+    "permalink": "/mainframe_collection/obj67",
     "lunr_id": 173
   },
   {
@@ -2097,9 +2097,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_01",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj36/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj36",
+    "permalink": "/mainframe_collection/obj36",
     "lunr_id": 174
   },
   {
@@ -2109,9 +2109,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_25",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj53/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj53",
+    "permalink": "/mainframe_collection/obj53",
     "lunr_id": 175
   },
   {
@@ -2121,9 +2121,9 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_07",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj230/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj230",
+    "permalink": "/mainframe_collection/obj230",
     "lunr_id": 176
   },
   {
@@ -2133,21 +2133,21 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_21",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj152/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj152",
+    "permalink": "/mainframe_collection/obj152",
     "lunr_id": 177
   },
   {
     "pid": "obj103",
-    "label": "Radical Software Volume 1 Number 5 Page 31",
-    "_date": "1972",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME1NR5_full_1972_Page_031",
+    "label": "Univac 9400 System Page 19",
+    "_date": "1969",
+    "object_type": "brochure",
+    "source": "univac_9400_1969_Page_19",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj103/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj103",
+    "permalink": "/mainframe_collection/obj103",
     "lunr_id": 178
   },
   {
@@ -2157,9 +2157,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_05",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj204/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj204",
+    "permalink": "/mainframe_collection/obj204",
     "lunr_id": 179
   },
   {
@@ -2169,9 +2169,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_argus_1961_Page_11",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj195/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj195",
+    "permalink": "/mainframe_collection/obj195",
     "lunr_id": 180
   },
   {
@@ -2181,9 +2181,9 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_06",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj137/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj137",
+    "permalink": "/mainframe_collection/obj137",
     "lunr_id": 181
   },
   {
@@ -2193,9 +2193,9 @@ layout: none
     "object_type": "brochure",
     "source": "computerterminalcorporation_datapoint3300_1969_Page_07",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj166/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj166",
+    "permalink": "/mainframe_collection/obj166",
     "lunr_id": 182
   },
   {
@@ -2205,9 +2205,9 @@ layout: none
     "object_type": "brochure",
     "source": "DedicatedDisc_HP_1971_Page_07",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj176/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj176",
+    "permalink": "/mainframe_collection/obj176",
     "lunr_id": 183
   },
   {
@@ -2217,9 +2217,9 @@ layout: none
     "object_type": "user manual",
     "source": "PDP11_HANDBOOK_DigitalEquipmentCorporation_1969",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj127/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj127",
+    "permalink": "/mainframe_collection/obj127",
     "lunr_id": 184
   },
   {
@@ -2229,9 +2229,9 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_22",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj245/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj245",
+    "permalink": "/mainframe_collection/obj245",
     "lunr_id": 185
   },
   {
@@ -2241,9 +2241,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_argus_1961_Page_01",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj185/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj185",
+    "permalink": "/mainframe_collection/obj185",
     "lunr_id": 186
   },
   {
@@ -2253,9 +2253,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_15",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj214/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj214",
+    "permalink": "/mainframe_collection/obj214",
     "lunr_id": 187
   },
   {
@@ -2265,9 +2265,9 @@ layout: none
     "object_type": "magazine",
     "source": "Computermagazine_NovDec1970",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj113/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj113",
+    "permalink": "/mainframe_collection/obj113",
     "lunr_id": 188
   },
   {
@@ -2277,9 +2277,9 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_11",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj142/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj142",
+    "permalink": "/mainframe_collection/obj142",
     "lunr_id": 189
   },
   {
@@ -2289,9 +2289,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_21",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj220/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj220",
+    "permalink": "/mainframe_collection/obj220",
     "lunr_id": 190
   },
   {
@@ -2301,9 +2301,9 @@ layout: none
     "object_type": "ad",
     "source": "IBM_ComElbowRoom_1971",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj7",
+    "permalink": "/mainframe_collection/obj7",
     "lunr_id": 191
   },
   {
@@ -2313,9 +2313,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_15",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj43/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj43",
+    "permalink": "/mainframe_collection/obj43",
     "lunr_id": 192
   },
   {
@@ -2325,9 +2325,9 @@ layout: none
     "object_type": "brochure",
     "source": "Bendix_G15_1956_Page_02",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj12/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj12",
+    "permalink": "/mainframe_collection/obj12",
     "lunr_id": 193
   },
   {
@@ -2337,9 +2337,9 @@ layout: none
     "object_type": "brochure",
     "source": "Bendix_G15_1956_Page_16",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj26/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj26",
+    "permalink": "/mainframe_collection/obj26",
     "lunr_id": 194
   },
   {
@@ -2349,9 +2349,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_49",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj77/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj77",
+    "permalink": "/mainframe_collection/obj77",
     "lunr_id": 195
   },
   {
@@ -2361,21 +2361,21 @@ layout: none
     "object_type": "photo",
     "source": "IBMCardReader",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj84/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj84",
+    "permalink": "/mainframe_collection/obj84",
     "lunr_id": 196
   },
   {
     "pid": "obj95",
-    "label": "Radical Software Volume 1 Number 5 Page 1",
-    "_date": "1972",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME1NR5_full_1972_Page_001",
+    "label": "Univac 9400 System Page 11",
+    "_date": "1969",
+    "object_type": "brochure",
+    "source": "univac_9400_1969_Page_11",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj95/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj95",
+    "permalink": "/mainframe_collection/obj95",
     "lunr_id": 197
   },
   {
@@ -2385,9 +2385,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_38",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj66/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj66",
+    "permalink": "/mainframe_collection/obj66",
     "lunr_id": 198
   },
   {
@@ -2397,9 +2397,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_03",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj37/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj37",
+    "permalink": "/mainframe_collection/obj37",
     "lunr_id": 199
   },
   {
@@ -2409,9 +2409,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_24",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj52/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj52",
+    "permalink": "/mainframe_collection/obj52",
     "lunr_id": 200
   },
   {
@@ -2421,9 +2421,9 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_08",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj231/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj231",
+    "permalink": "/mainframe_collection/obj231",
     "lunr_id": 201
   },
   {
@@ -2433,21 +2433,21 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_22",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj153/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj153",
+    "permalink": "/mainframe_collection/obj153",
     "lunr_id": 202
   },
   {
     "pid": "obj102",
-    "label": "Radical Software Volume 1 Number 5 Page 30",
-    "_date": "1972",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME1NR5_full_1972_Page_030",
+    "label": "Univac 9400 System Page 18",
+    "_date": "1969",
+    "object_type": "brochure",
+    "source": "univac_9400_1969_Page_18",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj102/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj102",
+    "permalink": "/mainframe_collection/obj102",
     "lunr_id": 203
   },
   {
@@ -2457,9 +2457,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_argus_1961_Page_10",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj194/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj194",
+    "permalink": "/mainframe_collection/obj194",
     "lunr_id": 204
   },
   {
@@ -2469,9 +2469,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_06",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj205/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj205",
+    "permalink": "/mainframe_collection/obj205",
     "lunr_id": 205
   },
   {
@@ -2481,9 +2481,9 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_05",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj136/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj136",
+    "permalink": "/mainframe_collection/obj136",
     "lunr_id": 206
   },
   {
@@ -2493,9 +2493,9 @@ layout: none
     "object_type": "brochure",
     "source": "computerterminalcorporation_datapoint3300_1969_Page_08",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj167/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj167",
+    "permalink": "/mainframe_collection/obj167",
     "lunr_id": 207
   },
   {
@@ -2505,9 +2505,9 @@ layout: none
     "object_type": "brochure",
     "source": "DedicatedDisc_HP_1971_Page_08",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj177/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj177",
+    "permalink": "/mainframe_collection/obj177",
     "lunr_id": 208
   },
   {
@@ -2517,9 +2517,9 @@ layout: none
     "object_type": "book",
     "source": "manandtheComputer_cookCover_1972",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj126/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj126",
+    "permalink": "/mainframe_collection/obj126",
     "lunr_id": 209
   },
   {
@@ -2529,9 +2529,9 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_21",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj244/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj244",
+    "permalink": "/mainframe_collection/obj244",
     "lunr_id": 210
   },
   {
@@ -2541,9 +2541,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_16",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj215/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj215",
+    "permalink": "/mainframe_collection/obj215",
     "lunr_id": 211
   },
   {
@@ -2553,9 +2553,9 @@ layout: none
     "object_type": "brochure",
     "source": "DedicatedDisc_HP_1971_Page_15",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj184/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj184",
+    "permalink": "/mainframe_collection/obj184",
     "lunr_id": 212
   },
   {
@@ -2565,9 +2565,9 @@ layout: none
     "object_type": "book",
     "source": "computer_architecture_BookCover_1970",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj112/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj112",
+    "permalink": "/mainframe_collection/obj112",
     "lunr_id": 213
   },
   {
@@ -2577,9 +2577,9 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_12",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj143/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj143",
+    "permalink": "/mainframe_collection/obj143",
     "lunr_id": 214
   },
   {
@@ -2589,9 +2589,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_22",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj221/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj221",
+    "permalink": "/mainframe_collection/obj221",
     "lunr_id": 215
   },
   {
@@ -2601,9 +2601,9 @@ layout: none
     "object_type": "brochure",
     "source": "IntroPDS1020DigComp_1964",
     "source_name": "Introduction to Pacfici Data Systems 1020 Digital Computer",
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj6/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj6",
+    "permalink": "/mainframe_collection/obj6",
     "lunr_id": 216
   },
   {
@@ -2613,9 +2613,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_14",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj42/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj42",
+    "permalink": "/mainframe_collection/obj42",
     "lunr_id": 217
   },
   {
@@ -2625,9 +2625,9 @@ layout: none
     "object_type": "brochure",
     "source": "Bendix_G15_1956_Page_03",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj13/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj13",
+    "permalink": "/mainframe_collection/obj13",
     "lunr_id": 218
   },
   {
@@ -2637,21 +2637,21 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_48",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj76/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj76",
+    "permalink": "/mainframe_collection/obj76",
     "lunr_id": 219
   },
   {
     "pid": "obj85",
-    "label": "Radical Software Volume 1 Number 1Page 1",
-    "_date": "1970",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME1NR1_full_1970_Page_01",
+    "label": "Univac 9400 System Page 1",
+    "_date": "1969",
+    "object_type": "brochure",
+    "source": "univac_9400_1969_Page_01",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj85/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj85",
+    "permalink": "/mainframe_collection/obj85",
     "lunr_id": 220
   },
   {
@@ -2661,21 +2661,21 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_28",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj56/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj56",
+    "permalink": "/mainframe_collection/obj56",
     "lunr_id": 221
   },
   {
     "pid": "obj91",
-    "label": "Radical Software Volume 1 Number 3 Page 25",
-    "_date": "1971",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME1NR3_full_1971_Page_25",
+    "label": "Univac 9400 System Page 7",
+    "_date": "1969",
+    "object_type": "brochure",
+    "source": "univac_9400_1969_Page_07",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj91/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj91",
+    "permalink": "/mainframe_collection/obj91",
     "lunr_id": 222
   },
   {
@@ -2685,9 +2685,9 @@ layout: none
     "object_type": "magazine",
     "source": "How_and_Why Mathematics_Page_37",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj33/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj33",
+    "permalink": "/mainframe_collection/obj33",
     "lunr_id": 223
   },
   {
@@ -2697,9 +2697,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_34",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj62/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj62",
+    "permalink": "/mainframe_collection/obj62",
     "lunr_id": 224
   },
   {
@@ -2709,9 +2709,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_02",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj201/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj201",
+    "permalink": "/mainframe_collection/obj201",
     "lunr_id": 225
   },
   {
@@ -2721,9 +2721,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_argus_1961_Page_06",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj190/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj190",
+    "permalink": "/mainframe_collection/obj190",
     "lunr_id": 226
   },
   {
@@ -2733,9 +2733,9 @@ layout: none
     "object_type": "brochure",
     "source": "computerterminalcorporation_datapoint3300_1969_Page_04",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj163/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj163",
+    "permalink": "/mainframe_collection/obj163",
     "lunr_id": 227
   },
   {
@@ -2745,9 +2745,9 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_01",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj132/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj132",
+    "permalink": "/mainframe_collection/obj132",
     "lunr_id": 228
   },
   {
@@ -2757,21 +2757,21 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_12",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj235/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj235",
+    "permalink": "/mainframe_collection/obj235",
     "lunr_id": 229
   },
   {
     "pid": "obj106",
-    "label": "Radical Software Volume 2 Number 1 Page 1",
-    "_date": "1972",
-    "object_type": "magazine",
-    "source": "RadicalSoftware_VOLUME2NR1_full_1972_Page_01",
+    "label": "Univac 9400 System Page 22",
+    "_date": "1969",
+    "object_type": "brochure",
+    "source": "univac_9400_1969_Page_22",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj106/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj106",
+    "permalink": "/mainframe_collection/obj106",
     "lunr_id": 230
   },
   {
@@ -2781,9 +2781,9 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_26",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj157/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj157",
+    "permalink": "/mainframe_collection/obj157",
     "lunr_id": 231
   },
   {
@@ -2793,9 +2793,9 @@ layout: none
     "object_type": "brochure",
     "source": "CompAge_EvolIBM_1976_Page_16",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj147/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj147",
+    "permalink": "/mainframe_collection/obj147",
     "lunr_id": 232
   },
   {
@@ -2805,9 +2805,9 @@ layout: none
     "object_type": "magazine",
     "source": "DataGay_computerizedIntroServiceAd_1979",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj116/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj116",
+    "permalink": "/mainframe_collection/obj116",
     "lunr_id": 233
   },
   {
@@ -2817,9 +2817,9 @@ layout: none
     "object_type": "photo",
     "source": "CompAge_EvolIBM_1977",
     "source_name": "The Computer Age: The Evolution of IBM Computers",
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj2",
+    "permalink": "/mainframe_collection/obj2",
     "lunr_id": 234
   },
   {
@@ -2829,9 +2829,9 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_02",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj225/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj225",
+    "permalink": "/mainframe_collection/obj225",
     "lunr_id": 235
   },
   {
@@ -2841,9 +2841,9 @@ layout: none
     "object_type": "brochure",
     "source": "IBM4331_Processor_1979",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj122/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj122",
+    "permalink": "/mainframe_collection/obj122",
     "lunr_id": 236
   },
   {
@@ -2853,9 +2853,9 @@ layout: none
     "object_type": "brochure",
     "source": "DedicatedDisc_HP_1971_Page_04",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj173/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj173",
+    "permalink": "/mainframe_collection/obj173",
     "lunr_id": 237
   },
   {
@@ -2865,9 +2865,9 @@ layout: none
     "object_type": "brochure",
     "source": "DedicatedDisc_HP_1971_Page_11",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj180/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj180",
+    "permalink": "/mainframe_collection/obj180",
     "lunr_id": 238
   },
   {
@@ -2877,9 +2877,9 @@ layout: none
     "object_type": "brochure",
     "source": "ferranti_orion_1960_Page_12",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj211/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj211",
+    "permalink": "/mainframe_collection/obj211",
     "lunr_id": 239
   },
   {
@@ -2889,9 +2889,9 @@ layout: none
     "object_type": "brochure",
     "source": "H316GenPurpDigComp_1965_Page_17",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj240/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj240",
+    "permalink": "/mainframe_collection/obj240",
     "lunr_id": 240
   },
   {
@@ -2901,9 +2901,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_44",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj72/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj72",
+    "permalink": "/mainframe_collection/obj72",
     "lunr_id": 241
   },
   {
@@ -2913,9 +2913,9 @@ layout: none
     "object_type": "brochure",
     "source": "Bendix_G15_1956_Page_13",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj23/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj23",
+    "permalink": "/mainframe_collection/obj23",
     "lunr_id": 242
   },
   {
@@ -2925,9 +2925,9 @@ layout: none
     "object_type": "brochure",
     "source": "IBM _Electric_ModelB_brochure_1955_Page_3",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj81/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj81",
+    "permalink": "/mainframe_collection/obj81",
     "lunr_id": 243
   },
   {
@@ -2937,9 +2937,9 @@ layout: none
     "object_type": "brochure",
     "source": "Bendix_G15_1956_Page_07",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj17/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj17",
+    "permalink": "/mainframe_collection/obj17",
     "lunr_id": 244
   },
   {
@@ -2949,9 +2949,9 @@ layout: none
     "object_type": "magazine",
     "source": "How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_18",
     "source_name": null,
-    "collection": "temp_collection",
+    "collection": "mainframe_collection",
     "thumbnail": "/img/derivatives/iiif/images/obj46/full/250,/0/default.jpg",
-    "permalink": "/temp_collection/obj46",
+    "permalink": "/mainframe_collection/obj46",
     "lunr_id": 245
   }
 ]

@@ -5,20 +5,20 @@ layout: none
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj108",
   "protocol": "http://iiif.io/api/image",
-  "width": 1346,
-  "height": 1800,
+  "width": 1364,
+  "height": 1280,
   "sizes": [
     {
-      "width": 1346,
-      "height": 1800
+      "width": 1364,
+      "height": 1280
     },
     {
       "width": 250,
-      "height": 334
+      "height": 235
     },
     {
       "width": 1140,
-      "height": 1525
+      "height": 1070
     }
   ],
   "profile": [

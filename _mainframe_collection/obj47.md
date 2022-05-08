@@ -1,0 +1,17 @@
+---
+pid: obj47
+label: How and Why Wonder Book of Robots and Electronic Brains Page 13
+company: Transworld Publishers
+_date: "????"
+decade: 60s
+commentary:
+object_type: magazine
+source: How-and-Why-Wonder-Book-of-Robots-and-Electronic-Brains_Page_19
+source_name:
+order: '46'
+layout: qatar_item
+collection: mainframe_collection
+thumbnail: "/img/derivatives/iiif/images/obj47/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/obj47/manifest.json"
+full: "/img/derivatives/iiif/images/obj47/full/1140,/0/default.jpg"
+---
