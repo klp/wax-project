@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-permalink: /resource/
+permalink: /resources/
 collection: mainframe_collection
 ---
 
