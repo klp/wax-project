@@ -2,8 +2,8 @@
 layout: page
 show_title: false
 banner:
-  collection: temp_collection
-  pid: obj3
+  collection: mainframe_collection
+  pid: obj85
   y: 25%
   height: '500px'
 ---
@@ -13,4 +13,4 @@ banner:
 
 ### Browse the Collection
 
-{% include collection_gallery.html facet_by='object_type' collection='temp_collection' %}
+{% include collection_gallery.html facet_by='object_type' collection='mainframe_collection' %}
