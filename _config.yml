@@ -108,8 +108,8 @@ menu:
     link: '/collection/'
   - label: 'RESOURCES'
     link: '/resources/'
-  - label: 'BLOG'
-    link: '/blog/'
+  - label: 'ZINE'
+    link: '/zine/'
   - label: 'SEARCH'
     link: '/search/'
 
