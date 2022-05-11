@@ -9,8 +9,3 @@ banner:
 ---
 
 ### A collection of digital archival images that focuses on computing devices before the advent of personal computers.
-
-
-### Browse the Collection
-
-{% include collection_gallery.html facet_by='object_type' collection='mainframe_collection' %}
